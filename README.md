@@ -1,2 +1,1 @@
-1.html : Contains logic of button , id and tag "p".
-2.html : Contains exercise for making a Q&A which shows answer simply by clicking on button.
+This repo contains all code done in school during programming classes and we will be seeing only html css and js currently
